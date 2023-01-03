@@ -1,0 +1,1 @@
+This is a string which will become tokenized and put into the nltk.Text.text class.
