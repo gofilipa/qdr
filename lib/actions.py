@@ -36,9 +36,6 @@ def context(tokenized, word):
     """
     text = Text(tokenized)
     context = text.concordance(word, width=100)
-    for i in context:
-        if i in context == word:
-            i.upper()
     return context
 
 def subtract(cleaned, word, operand):

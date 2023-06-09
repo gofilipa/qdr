@@ -2,6 +2,7 @@ import argparse
 from lib import load
 from lib import actions
 import matplotlib.pyplot as plt
+import pprint
 
 
 # creating parser object with properties (arguments and options) for
@@ -17,18 +18,16 @@ args = parser.parse_args()
 word = args.keyword 
 filename = args.text
 
-# actions: loading, tokenize, cleaning, and similarity 
+# actions: loading, tokenize, cleaning
 loaded = load.launch(filename)
 tokenized = load.preprocess(loaded)
 cleaned = load.clean(tokenized)
 
-# similarity = actions.similar(cleaned, word)
-
-# in the case that we want to iterate twice
+# showing the context
 if args.context == True:
     print(actions.context(tokenized, word))
 else:
-    print(actions.similar(cleaned, word))
+    pprint.pprint(actions.similar(cleaned, word))
     
 # # visualize the results
 # if args.graph == True:
