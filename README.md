@@ -13,13 +13,20 @@ There are two aspects of Butler's theory of Gender Performativity that influence
 First, that gender is active. It is a series of actions, like a habit, as Butler defines in her famous book, Gender Trouble:
 
 ```console 
-"Gender is the repeated stylization of the body, a set of repeated acts within a highly rigid, regulatory frame that congeal over time to produce the appearance of a substance, of a natural sort of being" (Gender Trouble 33). 
+"Gender is the repeated stylization of the body, 
+a set of repeated acts within a highly rigid, 
+regulatory frame that congeal over time to produce 
+the appearance of a substance, of a natural sort 
+of being" (Gender Trouble 33). 
 ```
 
 Second, that these series of actions are productive, in two ways. They produce the subject, bring the subject into being, rather than represent an expression of the subject or of a pre-existing subjectivity. This is an important point that Butler makes in her followup book, Bodies that Matter: on the Discursive Limits of Sex (1996), when she says "There is no power that acts, but only a reiterated acting that is power in its persistence and instability" (Bodies xviii). The second productive aspect has to do with language. Here, Butler makes a major claim about language producing reality, rather than referencing it:
 
 ```console
-"The mimetic or representational status of language…. is not mimetic at all. On the contrary, it is productive, constitutive, one might even argue performative" (Bodies 6). 
+"The mimetic or representational status of language…. 
+is not mimetic at all. On the contrary, it is 
+productive, constitutive, one might even argue 
+performative" (Bodies 6). 
 ```
 
 This point, that language produces the reality that it seems to merely reference, opens a possibility for re-signifying the meaning of certain terms. Butler offers the famous example in the resignification of the term "queer," which has been transformed from a term of abjection to one of empowerment. "Queer" achieves this resignification by harnessing its own abjection which is repudiated in every identification with heterosexuality. Because performativity produces meaning, therein lies the possibility of resistance, the possibility of resignifying meaning. 
